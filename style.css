@@ -6,6 +6,8 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7
+  margin-left: auto;
+  margin-right: auto;
   
 }
 
@@ -22,6 +24,8 @@ h6,5px
 /head> <body>  <he
 article {
   padding: 50px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 l / Artist<h1>   <n
 st<h1>   <nav>    <
@@ -49,6 +53,7 @@ img {
   height: auto;
   display: block;
   margin: 0 auto;
+  
 }
 
 hr {
