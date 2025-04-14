@@ -1,2 +1,2 @@
 # pete-thinkful
-pete
+pete thinkful
