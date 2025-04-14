@@ -6,7 +6,7 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7
-  margin: auto; 
+ 
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -21,7 +21,6 @@ h6,5px
 /head> <body>  <he
 article {
   padding: 50px 0;
-  margin: auto
   
 }
 l / Artist<h1>   <n
@@ -46,7 +45,8 @@ img {
   width: 100%;
   max-width: 200px;
   height: auto;
-  display: block;  
+  display: block; 
+  margin; auto;
 }
 
 hr {border: 1px solid black;}
