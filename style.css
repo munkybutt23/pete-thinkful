@@ -6,14 +6,12 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
-<div style="margin-left: auto;
-  margin-right: auto;">
+<div style="margin: auto;">
 h1,
 h2,20px
 auto:"></head> <b
@@ -24,8 +22,7 @@ h6,5px
 /head> <body>  <he
 article {
   padding: 50px 0;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
 }
 l / Artist<h1>   <n
 st<h1>   <nav>    <
@@ -42,8 +39,7 @@ p {
 
 /* The div container constrains the content width within the main container to 600px */
 div {
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 600px;
 }
 
@@ -52,7 +48,7 @@ img {
   max-width: 200px;
   height: auto;
   display: block;
-  margin: 0 auto;
+  margin: auto;
   
 }
 
