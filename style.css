@@ -11,7 +11,6 @@ body {
   margin: 0 auto:
 }
 
-<div= margin: auto>
 /* Set the font family for any h1, h2, or h3 heading */
 
 h1,
@@ -42,6 +41,7 @@ p {
 /* The div container constrains the content width within the main container to 600px */
 div {
   width: 600px;
+  margin; 0 auto:
 }
 
 img {
