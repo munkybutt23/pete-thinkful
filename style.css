@@ -55,7 +55,10 @@ p {
 /* The div container constrains the content width within the main container to 600px */
 div {
   width: 600px;
-  margin: 0 auto:
+  margin-top: 0 auto;
+  margin-right: 0 auto;
+  margin-bottom: 0 auto;
+  margin-left: 0 auto;
 }
 
 img {
