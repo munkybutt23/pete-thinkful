@@ -9,6 +9,16 @@ body {
   margin:0 auto
 }
 
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
 /* Set the font family for any h1, h2, or h3 heading */
 
 h1,
