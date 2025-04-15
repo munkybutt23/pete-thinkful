@@ -6,10 +6,10 @@ body {
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
   background-color: #eae2b7;
-  margin-top: 0;
-  margin-right: 0;
-  margin-bottom: 0;
-  margin-left: 0;
+  margin-top: 0 auto;
+  margin-right: 0 auto;
+  margin-bottom: 0 auto;
+  margin-left: 0 auto;
 }
 
 h1 {
